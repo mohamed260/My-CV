@@ -14,7 +14,7 @@
                     </div>
             
                     <div class="flex items-center justify-center w-full mt-6 md:mt-0 md:w-1/2">
-                        <img class="w-full h-full max-w-2xl" src="https://scontent.fkrt3-1.fna.fbcdn.net/v/t1.6435-0/s526x395/165241187_473599713777544_5065120083423228563_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeFfoPQkdzw5DbCrkddTJl50jC15bLu6mZqMLXlsu7qZmhEp6v3iGpq1XbLC29kZTh2U_Xjw2dmdqIj0I3WeMHk-&_nc_ohc=bll6QZAM_O4AX92doy2&_nc_ht=scontent.fkrt3-1.fna&tp=7&oh=2af77a90fe673dc8f1fe3741240a0f91&oe=60A8BD8F" alt="">
+                        <img class="w-full h-full max-w-2xl" src="https://avatars.githubusercontent.com/u/50184103?s=400&u=a4a7e9ae59f8c710292028ac8eb8629801a25bd4&v=4" alt="">
                     </div>
                 </div>
             </div>
