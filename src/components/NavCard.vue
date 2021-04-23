@@ -7,7 +7,7 @@
                 <div class="flex items-center justify-between">
                     <div>
                         <a class="text-2xl font-bold text-indigo-500 dark:text-white md:text-2xl hover:text-indigo-400 dark:hover:text-indigo-300" href="#">
-                            <img src="../assets/logo1.png" class="w-14 h-5 md:w-16 md:h-6">
+                            <img src="../assets/Untitled-2.png" class="w-12 h-5 md:w-16 md:h-6">
                         </a>
                     </div>
                     
@@ -25,18 +25,22 @@
                 </div>
 
                 <!-- Mobile Menu open: "block", Menu closed: "hidden" -->
-                <div class="items-center md:flex" :class="{'hidden': !isOpen, 'block': isOpen }">
+                <div class=" items-center md:flex" :class="{'hidden': !isOpen, 'block': isOpen }">
                     <div class="flex flex-col md:flex-row md:mx-6">
                         <a class="my-1 text-sm font-medium text-gray-700 dark:text-gray-200 hover:text-indigo-500 dark:hover:text-indigo-400 md:mx-4 md:my-0" href="#home">Home</a>
                         <a class="my-1 text-sm font-medium text-gray-700 dark:text-gray-200 hover:text-indigo-500 dark:hover:text-indigo-400 md:mx-4 md:my-0" href="#about">About</a>
                         <a class="my-1 text-sm font-medium text-gray-700 dark:text-gray-200 hover:text-indigo-500 dark:hover:text-indigo-400 md:mx-4 md:my-0" href="#skills">Skills</a>
                     </div>
                 </div>
+               
             </div>
         </nav>
 
-        
+        <!-- <div @click="isOpen = !isOpen" class="md:hidden" :class="{'absolute bg-gray-400 w-full h-full': isOpen, 'block': !isOpen }"></div> -->
     </div>
+
+         
+
     
 </template>
 
