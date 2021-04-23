@@ -6,7 +6,7 @@
                 <div class="items-center md:flex">
                     <div class="w-full md:w-1/2">
                         <div class="md:max-w-lg">
-                            <h1 style="font-family: serif;" class="text-2xl font-bold text-gray-800 dark:text-white md:text-3xl">Profesional Skills</h1>
+                            <h1 style="font-family: serif;" class="text-2xl font-bold text-gray-800 dark:text-white md:text-3xl">Professional Skills</h1>
                             
                             <div class="md:mr-3" style="font-family: cursive;">
                                 <div class="w-full bg-gray-300">
