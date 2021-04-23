@@ -2,7 +2,7 @@
 
     <div id="nav">
         
-        <nav class="fixed w-full bg-white shadow-lg dark:bg-gray-800">
+        <nav class="fixed w-full bg-gray-100 shadow-lg dark:bg-gray-800">
             <div class=" px-6 py-3 mx-full md:flex md:justify-between md:items-center">
                 <div class="flex items-center justify-between">
                     <div>
