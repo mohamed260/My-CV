@@ -6,16 +6,14 @@
             <div class=" px-6 py-3 mx-full md:flex md:justify-between md:items-center">
                 <div class="flex items-center justify-between">
                     <div>
-                        <a class="text-2xl font-bold text-indigo-500 dark:text-white md:text-2xl hover:text-indigo-400 dark:hover:text-indigo-300" href="#">Fox</a>
+                        <a class="text-2xl font-bold text-indigo-500 dark:text-white md:text-2xl hover:text-indigo-400 dark:hover:text-indigo-300" href="#">
+                            <img src="../assets/logo1.png" class="w-14 h-5 md:w-16 md:h-6">
+                        </a>
                     </div>
                     
                     <!-- Mobile menu button -->
                     <div class="flex md:hidden">
-                        <!-- <button type="button" class="text-gray-500 dark:text-gray-200 hover:text-gray-600 dark:hover:text-gray-400 focus:outline-none focus:text-gray-600 dark:focus:text-gray-400" aria-label="toggle menu">
-                            <svg v-model="isOpen" viewBox="0 0 24 24" class="w-6 h-6 fill-current">
-                                <path fill-rule="evenodd" d="M4 5h16a1 1 0 0 1 0 2H4a1 1 0 1 1 0-2zm0 6h16a1 1 0 0 1 0 2H4a1 1 0 0 1 0-2zm0 6h16a1 1 0 0 1 0 2H4a1 1 0 0 1 0-2z"></path>
-                            </svg>
-                        </button> -->
+                        
 
                         <button @click="toggle" class="px-2 text-gray-500 hover:text-black focus:outline-none focus:text-black">
                             <svg class="h-6 w-6 fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
