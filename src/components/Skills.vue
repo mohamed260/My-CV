@@ -8,7 +8,7 @@
                         <div class="md:max-w-lg">
                             <h1 style="font-family: serif;" class="text-2xl font-bold text-gray-800 dark:text-white md:text-3xl">Professional Skills</h1>
                             
-                            <div class="md:mr-3" style="font-family: cursive;">
+                            <div class="md:mr-3" style="font-family: sans-serif;">
                                 <div class="w-full bg-gray-300">
                                 <div class="m-2">HTML5 <span class="float-right">95%</span> </div>
                                 <div style="border-bottom: solid 7px #4875D5; width: 95% "></div>

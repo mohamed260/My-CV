@@ -14,7 +14,7 @@
 
             <div class="max-w-xl px-6 py-12 md:max-w-5xl md:w-1/2">
                 <h2 style="font-family: serif;" class="text-2xl font-bold text-gray-800 dark:text-white md:text-3xl">I'am <span class="text-indigo-600 dark:text-indigo-400">Mohamed</span></h2>
-                <p style="font-family: cursive;" class="mt-4 text-gray-600 dark:text-gray-400">
+                <p style="font-family: sans-serif;" class="mt-4 text-gray-600 dark:text-gray-400">
                     I study at Al-Neelain University, College of Computer Science and Information Technology, Department of Management Information Systems, and I love to work on designing and developing websites.
                 </p>
                 
