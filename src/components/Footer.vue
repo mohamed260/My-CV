@@ -21,9 +21,10 @@
                 </a>
             </div>
             
+            
         </div>
         <div>
-            <p class="text-center text-gray-200 dark:text-white">© Site Of Mohamed 2020 - All rights reserved</p>
+            <p class="text-center text-gray-200 dark:text-white">© Site Of Mohamed 2021 - All rights reserved</p>
         </div>
     </div>
 </template>

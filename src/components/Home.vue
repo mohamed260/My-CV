@@ -1,10 +1,10 @@
 <template>
-    <div id="home" class="m">
+    <div id="home">
         
         <header class="bg-white dark:bg-gray-800">
         
 
-            <div class=" shadow-lg px-6 py-16 mx-full my-4">
+            <div class=" md:shadow-lg px-6 py-16 mx-full my-4">
                 <div class="items-center md:flex">
                     <div class="w-full md:w-1/2">
                         <div class="max-w-lg">

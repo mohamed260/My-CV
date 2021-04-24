@@ -7,7 +7,7 @@
             
         
     <section class="bg-gray-100 my-1 dark:bg-gray-900 md:py-12 md:flex md:justify-center">
-        <div class="bg-white dark:bg-gray-800 md:mx-8 md:flex md:max-w-5xl shadow-lg md:rounded-md">
+        <div class="bg-white dark:bg-gray-800 md:mx-8 md:flex md:max-w-5xl md:shadow-lg md:rounded-md">
             <div class="md:w-1/2">
                 <div class="h-64 bg-cover md:rounded-md md:h-full" style="background-image:url('https://images.unsplash.com/photo-1593642532400-2682810df593?ixlib=rb-1.2.1&ixid=MXwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=750&q=80')"></div>
             </div>
