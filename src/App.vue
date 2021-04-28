@@ -9,6 +9,8 @@
 
     <Skills />
 
+    <Work />
+
     <Footer />
   </div>
 </template>
@@ -18,6 +20,7 @@ import Nav from './components/NavCard.vue'
 import Home from './components/Home.vue'
 import About from './components/About.vue'
 import Skills from './components/Skills.vue'
+import Work from './components/Work.vue'
 import Footer from './components/Footer.vue'
 
 export default {
@@ -26,6 +29,7 @@ export default {
     Home,
     About,
     Skills,
+    Work,
     Footer
   },
   
