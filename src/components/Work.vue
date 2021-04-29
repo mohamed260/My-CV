@@ -1,5 +1,5 @@
 <template>
-    <div id="work" class="mx-5">
+    <div id="work" class="mx-5 md:shadow-lg">
         <h1 class="text-2xl font-semibold text-indigo-500 text-center md:text-3xl my-2" style="font-family: serif;">My Work</h1>
         <div>
             <h1  style="font-family: serif;" class="text-2xl font-bold text-gray-800 dark:text-white md:text-3xl">
